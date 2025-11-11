@@ -1,5 +1,10 @@
 # Yakuzazhfontgen
 a series of python that generates yakuza fonts for kiwami engine
+
+两个Python小程序，生成极引擎可用的繁体中文字体文件
+
+如果你用我库里的繁转简字体工具，就能给自己生成简体字体
+
 ## 所需文件
 
 你需要一个Big5到Unicode的码表，它的名字应该是 `b2u.txt`
